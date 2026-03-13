@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[47257,["/mumbai121AI/_next/static/chunks/ff1a16fafef87110.js","/mumbai121AI/_next/static/chunks/d2be314c3ece3fbe.js"],"ClientPageRoot"]
-3:I[81694,["/mumbai121AI/_next/static/chunks/744355e03808d4c7.js","/mumbai121AI/_next/static/chunks/69f962514bb64dda.js","/mumbai121AI/_next/static/chunks/5439912ed545202a.js"],"default"]
-6:I[97367,["/mumbai121AI/_next/static/chunks/ff1a16fafef87110.js","/mumbai121AI/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+2:I[47257,["https://Devilboss666.github.io/mumbai121AI/_next/static/chunks/ff1a16fafef87110.js","https://Devilboss666.github.io/mumbai121AI/_next/static/chunks/d2be314c3ece3fbe.js"],"ClientPageRoot"]
+3:I[81694,["https://Devilboss666.github.io/mumbai121AI/_next/static/chunks/744355e03808d4c7.js","https://Devilboss666.github.io/mumbai121AI/_next/static/chunks/69f962514bb64dda.js","https://Devilboss666.github.io/mumbai121AI/_next/static/chunks/a842ac22a0bb7ce6.js"],"default"]
+6:I[97367,["https://Devilboss666.github.io/mumbai121AI/_next/static/chunks/ff1a16fafef87110.js","https://Devilboss666.github.io/mumbai121AI/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"ZfbfMv7T2zOCOYZVsll0p","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/mumbai121AI/_next/static/chunks/69f962514bb64dda.js","async":true}],["$","script","script-1",{"src":"/mumbai121AI/_next/static/chunks/5439912ed545202a.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"nAsIeN1thGypxAyO079xo","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"https://Devilboss666.github.io/mumbai121AI/_next/static/chunks/69f962514bb64dda.js","async":true}],["$","script","script-1",{"src":"https://Devilboss666.github.io/mumbai121AI/_next/static/chunks/a842ac22a0bb7ce6.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:{}
 8:null
